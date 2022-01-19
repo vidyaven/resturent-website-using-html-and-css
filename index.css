@@ -1,0 +1,56 @@
+ #b{
+    background-image: url(Screenshot\ \(25\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    /* background-color: red; */
+    /* /* margin-left: 20; */
+ }
+  #d{
+   margin-top: -1%;
+}
+ #t{
+    background-color:orangered;
+    height: 40px;
+   
+} 
+header{
+    font-size: 210%;
+    color: white;
+}
+a:hover{
+    color:black;
+    margin-left: 35%;
+}
+a{
+    margin-left: 35%;
+}
+
+#bc{
+    background-image: url(Screenshot\ \(28\).png);
+    width: 200px;
+    height: 190px;
+    margin-top: -5%;
+    margin-top: -9%;
+}
+#ab{
+    margin-left: 250%;
+    width: 200px;
+    background-color:crimson;
+    border-bottom-left-radius: 15%;
+    border-bottom: 20px solid black;
+    margin-left:150%;
+    height: 250px;
+    margin-top: 50%;
+
+    
+} 
+#a{
+    background-color: orangered;
+    height: 100px;
+    width: 1500px;
+}
+#z{
+    margin-top: -1%;
+}

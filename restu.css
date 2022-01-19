@@ -1,0 +1,165 @@
+#a{
+    background-color:red;
+    height: 90px;
+}
+#b{
+    color:goldenrod;
+    font-size: 50px;
+}
+#c{
+    background-image: url(Screenshot\ \(25\).png);
+    height: 600px;
+    background-repeat: no-repeat;
+    width:100%;
+    /* background-color: black; */
+    margin-top: -30px;
+    background-size: cover;
+
+}
+label{
+    color: red;
+}
+a{
+    color: orangered;
+    margin-left: 30%;
+}
+#d{
+    /* margin-bottom: 5%; */
+    /* margin-top:2%; */
+    margin-top: 0px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#e{
+    background-color: greenyellow;
+    width: 500px;
+}
+h2{
+    margin-left: 83%;
+    height: 100px;
+}
+#bc{
+    background-image: url(Screenshot\ \(28\).png);
+    height: 200px;
+    width: 200px;
+    margin-top: -9%;
+    margin-left: 1%;
+}
+#g{
+    margin-left: 23%;
+    margin-top: -5%;
+}
+#g{
+    background-color: honeydew;
+    width: 200px;
+    border-bottom-left-radius: 15%;
+    border-bottom: 20px solid black;
+}
+#h{
+    background-image: url(20220118_191628.jpg);
+    height: 300px;
+    width: 500px;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+#i{
+    height: 300px;
+    width: 20px;
+    background-color: orange;
+    margin-left: 86%;
+    margin-top: -22.5%;
+}
+#j{
+    height: 200px;
+    width: 20px;
+    margin-left: 87.5%;
+    margin-top: -20%;
+    background-color: red;
+
+}
+#k{
+    width: 1500px;
+    height: 1500px;
+     background-image: url(Screenshot\ \(26\).png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    /* background-color: black; */
+    margin-top: 10%;
+}
+#m{
+    margin-top: -75%;
+    margin-left: 35%;
+    color: red;
+    font-size: 250%;
+}
+#n{
+    text-align: center;
+    color: white;
+}
+#o{
+    text-align: center;
+    word-spacing: 20px;
+    color: white;
+    font-size: 200%;
+}
+#q{
+    margin-left: 20%;
+}
+#p{
+    width: 200px;
+    height: 315px;
+    background-color: whitesmoke;
+    margin-left: 20%;
+    opacity: 50%;
+}
+#r{
+    margin-left: 20%;
+    margin-top: -40%;
+}
+#q{
+    margin-left: 40%;
+}
+#ab{
+    width: 200px;
+    height: 315px;
+    background-color: black;
+    opacity: 50%;
+    color:red;
+    margin-left: 40%;
+    margin-top: -25%;
+}
+#ad{
+    margin-left: 10%;
+    margin-top: -40%;
+}
+#ae{
+    margin-top: -40%;
+    margin-left: 10%;
+}
+#ac{
+    margin-left:40%;
+}
+#ba{
+    width: 200px;
+    height: 315px;
+    background-color: red;
+    margin-left: 60%;
+    margin-top: -25%;
+    opacity: 50%;
+    color: white;
+}
+#bb{
+    margin-left: 40%;
+}
+#v{
+margin-left: 15%;
+margin-top: -39%;
+}
+#bd{
+    margin-top: -40%;
+    margin-left: 10%;
+}
+#z{
+    text-align: center;
+}
